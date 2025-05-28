@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import FadeIn from 'react-fade-in';
 
 const elements = [
   {
