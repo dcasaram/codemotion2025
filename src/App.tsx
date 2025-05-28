@@ -109,6 +109,7 @@ function App() {
           ))}
         </ul>
       </div>
+      <div className="fixed left-[50%] top-0 bottom-0 w-[50%] bg-black z-10" />
     </div>
   )
 }
